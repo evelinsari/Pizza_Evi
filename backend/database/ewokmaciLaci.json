@@ -1,0 +1,15 @@
+{
+  "ordered pizzas": [
+    "1  x  margherita<button style=\"margin-left: 10px;\">x</button>",
+    "1  x  pepperoni<button style=\"margin-left: 10px;\">x</button>",
+    "1  x  funghi<button style=\"margin-left: 10px;\">x</button>"
+  ],
+  "name": "ewokmaciLaci",
+  "zip code": "1111",
+  "city": "Ócsa",
+  "street": "Kopácsi István köz",
+  "house number": "3/2",
+  "phone number": "+36307300580",
+  "email": "teszt@gmail.com",
+  "date": "Wed, 23 Aug 2023 08:55:55 GMT"
+}

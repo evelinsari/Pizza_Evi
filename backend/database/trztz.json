@@ -1,0 +1,13 @@
+{
+  "ordered pizzas": [
+    "1  x  pepperoni<button style=\"margin-left: 10px;\">x</button>"
+  ],
+  "name": "trztz",
+  "zip code": "222",
+  "city": "Pest",
+  "street": "Kopácsi István köz",
+  "house number": "12",
+  "phone number": "123566",
+  "email": "teszt@gmail.com",
+  "date": "Wed, 23 Aug 2023 09:26:00 GMT"
+}

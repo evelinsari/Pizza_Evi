@@ -1,0 +1,13 @@
+{
+  "ordered pizzas": [
+    "1  x  quattro formaggi<button style=\"margin-left: 10px;\">x</button>"
+  ],
+  "name": "Nudli",
+  "zip code": "1234",
+  "city": "Ócsa",
+  "street": "teszt",
+  "house number": "12",
+  "phone number": "0611235667",
+  "email": "teszt@gmail.com",
+  "date": "Wed, 23 Aug 2023 09:20:43 GMT"
+}
